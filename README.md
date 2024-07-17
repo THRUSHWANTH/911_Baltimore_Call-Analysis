@@ -6,4 +6,5 @@ not represent the ultimate version of the dashboard, it does serve to illustrate
 
 Data Set Source: https://catalog.data.gov/dataset/911-calls-for-service-2021-f0a4e
 
-Dashboard : https://public.tableau.com/app/profile/thrushwanth.kakuturu/viz/911callanalysisDashBoard/Dashboard1
+Dashboard 01: https://public.tableau.com/app/profile/thrushwanth.kakuturu/viz/911_call_Analysis_01/Dashboard1
+Dashboard 02: https://public.tableau.com/app/profile/thrushwanth.kakuturu/viz/911_call_Analysis/Dashboard12
